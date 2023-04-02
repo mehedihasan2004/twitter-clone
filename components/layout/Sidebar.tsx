@@ -23,6 +23,7 @@ const Sidebar = () => {
       icon: FaUser,
     },
   ];
+
   return (
     <div className="col-span-1 pr-4 h-full md:pr-6">
       <div className="flex flex-col items-end">
